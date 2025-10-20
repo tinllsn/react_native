@@ -1,4 +1,4 @@
-![z7135635121817_566f0ea8dfcd59ce7940ebad98f36c6a](https://github.com/user-attachments/assets/ad2368a4-05e9-4c6f-81aa-f38254d0aacc)Nguyễn Trí Dũng - 22IT050
+Nguyễn Trí Dũng - 22IT050
 # Pomodoro — React Native (Expo)
 
 Ứng dụng Pomodoro đơn giản xây bằng Expo + React Native để quản lý phiên tập trung (Work) và nghỉ ngơi (Break), kèm lưu lịch sử, thống kê 7 ngày và thông báo khi kết thúc phiên.
